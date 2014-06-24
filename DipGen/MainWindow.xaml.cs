@@ -109,6 +109,7 @@ namespace DipGen
                 {
                     
 
+
                     DocPattern = WordApp.Documents.Open(PatternName);
                                         
                     DocMain.Activate();
