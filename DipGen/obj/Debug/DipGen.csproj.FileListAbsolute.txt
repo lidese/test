@@ -1,0 +1,13 @@
+D:\Work\DipGen\DipGen\bin\Debug\DipGen.exe.config
+D:\Work\DipGen\DipGen\bin\Debug\DipGen.exe
+D:\Work\DipGen\DipGen\bin\Debug\DipGen.pdb
+D:\Work\DipGen\DipGen\obj\Debug\DipGen.csprojResolveAssemblyReference.cache
+D:\Work\DipGen\DipGen\obj\Debug\MainWindow.baml
+D:\Work\DipGen\DipGen\obj\Debug\MainWindow.g.cs
+D:\Work\DipGen\DipGen\obj\Debug\App.g.cs
+D:\Work\DipGen\DipGen\obj\Debug\DipGen_MarkupCompile.cache
+D:\Work\DipGen\DipGen\obj\Debug\DipGen.g.resources
+D:\Work\DipGen\DipGen\obj\Debug\DipGen.Properties.Resources.resources
+D:\Work\DipGen\DipGen\obj\Debug\DipGen.csproj.GenerateResource.Cache
+D:\Work\DipGen\DipGen\obj\Debug\DipGen.exe
+D:\Work\DipGen\DipGen\obj\Debug\DipGen.pdb
